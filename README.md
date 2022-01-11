@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Andrewchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandrewchan)](https://github.com/anandrewchan/github-readme-stats)
+[![Andrewchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandrewchan&count_private=true&theme=tokyonight)](https://github.com/anandrewchan/github-readme-stats)
 <!--
 **AnandrewChan/Anandrewchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
